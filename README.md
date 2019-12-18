@@ -1,8 +1,11 @@
 # demo
-this is my first repo
-hey my name is Rahul
+This is my first repo.
 
-`hello
+-point1
+-point2
 
-- hi
-print("hello")
+___
+
+```
+print("hello world")
+```

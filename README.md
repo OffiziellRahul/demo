@@ -1,8 +1,8 @@
 # demo
 This is my first repo.
 
--point1
--point2
+- point1
+- point2
 
 ___
 
